@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\C#\Task_17\Task_17\bin\Debug\net8.0-windows\Task_17.exe
+C:\Users\user\Desktop\C#\Task_17\Task_17\bin\Debug\net8.0-windows\Task_17.deps.json
+C:\Users\user\Desktop\C#\Task_17\Task_17\bin\Debug\net8.0-windows\Task_17.runtimeconfig.json
+C:\Users\user\Desktop\C#\Task_17\Task_17\bin\Debug\net8.0-windows\Task_17.dll
+C:\Users\user\Desktop\C#\Task_17\Task_17\bin\Debug\net8.0-windows\Task_17.pdb
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.Form1.resources
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.Properties.Resources.resources
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.dll
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\refint\Task_17.dll
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.pdb
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\Task_17.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\Task_17\Task_17\obj\Debug\net8.0-windows\ref\Task_17.dll
